@@ -1,0 +1,14 @@
+body {
+    background-color: lightyellow;
+}
+
+.circle {
+    font-size: 15px;
+    font-family: courier;
+}
+
+.p {
+    font-size: 12px; 
+    text-indent: 10px; 
+    font-family: courier;
+}
